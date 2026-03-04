@@ -1,24 +1,51 @@
-# 💫 About Me:
-🔭 I’m currently working on: Architecting scalable microservices with Java/Spring Boot and crafting high-performance interfaces using Angular and React.<br><br>👯 I’m looking to collaborate on: Innovative Open Source projects, AI-driven solutions, or fintech-focused architectures.<br><br>🤝 I’m looking for help with: Deepening my expertise in advanced Cloud Architecture and multi-cloud deployment strategies.<br><br>🌱 I’m currently learning: The intersection of Generative AI and software development, while preparing for my Azure AZ-900 Cloud certification.<br><br>💬 Ask me about: Java Ecosystem, Python scripting, Frontend state management, or the latest trends in Banking & Finance technology.<br><br>⚡ Fun fact: Beyond the keyboard, I’m a culinary enthusiast who has mastered the art of authentic Orange Chicken and homemade Fini-style gummies. I’m also a creative soul currently self-publishing my first book, blending storytelling with digital design.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emily-pereira-ribeiro-bb1637237/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Emily2003Profissional@outlook.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Quarkus](https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EmilyPereiraRibeiroAcad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=EmilyPereiraRibeiroAcad&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyPereiraRibeiroAcad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=EmilyPereiraRibeiroAcad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <h1>Hey there! I'm Emily ✨</h1>
+  <p><i>Senior Full Stack Developer | Java • Python • JavaScript • Cloud Architecture 🎀</i></p>
+  <img src="https://komarev.com/ghpvc/?username=EmilyPereiraRibeiroAcad&color=ff69b4&style=flat-square&label=PROFILE+VIEWS" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=EmilyPereiraRibeiroAcad&icon=7&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me:
+* 🔭 **I’m currently working on:** Architecting scalable microservices with **Java/Spring Boot** and crafting high-performance interfaces using **Angular** and **React**.
+* 👯 **I’m looking to collaborate on:** Innovative Open Source projects, AI-driven solutions, or **fintech-focused** architectures.
+* 🤝 **I’m looking for help with:** Deepening my expertise in advanced **Cloud Architecture** and multi-cloud deployment strategies.
+* 🌱 **I’m currently learning:** The intersection of **Generative AI** and software development, while preparing for my **Azure AZ-900** Cloud certification.
+* 💬 **Ask me about:** Java Ecosystem, Python scripting, Frontend state management, or the latest trends in **Banking & Finance** technology.
+* ⚡ **Fun fact:** Beyond the keyboard, I’m a culinary enthusiast who has mastered the art of **authentic Orange Chicken** and **homemade Fini-style gummies**. I’m also a creative soul currently **self-publishing my first book**, blending storytelling with digital design.
+
+---
+
+### 💻 Tech Stack (Pastel Edition)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-E6E6FA?style=for-the-badge&logo=python&logoColor=3776AB) ![JavaScript](https://img.shields.io/badge/JavaScript-F0E68C?style=for-the-badge&logo=javascript&logoColor=323330) ![TypeScript](https://img.shields.io/badge/TypeScript-B0E0E6?style=for-the-badge&logo=typescript&logoColor=007ACC) |
+| **Frontend** | ![Angular](https://img.shields.io/badge/Angular-FFC0CB?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-D8BFD8?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-FFDAB9?style=for-the-badge&logo=html5&logoColor=white) |
+| **Backend & Cloud** | ![Spring](https://img.shields.io/badge/Spring-98FB98?style=for-the-badge&logo=spring&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-ADD8E6?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FFD700?style=for-the-badge&logo=amazon-aws&logoColor=232F3E) ![Kafka](https://img.shields.io/badge/Kafka-D3D3D3?style=for-the-badge&logo=apachekafka&logoColor=black) |
+| **Data & Tools** | ![PostgreSQL](https://img.shields.io/badge/Postgres-B0C4DE?style=for-the-badge&logo=postgresql&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-87CEFA?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FFA07A?style=for-the-badge&logo=postman&logoColor=white) |
+
+---
+
+### 📊 My Coding Journey
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EmilyPereiraRibeiroAcad&show_icons=true&theme=dracula&title_color=ff79c6&icon_color=ff79c6&text_color=f8f8f2&bg_color=1c1c1c&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyPereiraRibeiroAcad&layout=compact&theme=dracula&title_color=ff79c6&text_color=f8f8f2&bg_color=1c1c1c&hide_border=true" alt="Top Languages" />
+</div>
+
+### 🏆 Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EmilyPereiraRibeiroAcad&theme=radical&no-frame=true&no-bg=true&margin-w=4&rank=SSS,SS,S,A" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 🌐 Connect with me:
+<div align="center">
+  <a href="https://www.linkedin.com/in/emily-pereira-ribeiro-bb1637237/"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:Emily2003Profissional@outlook.com"><img src="https://img.shields.io/badge/Email-E6E6FA?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/mocha_8bit_line.png" width="100%">
+  <i>"Code is like cooking: it requires patience, the right ingredients, and a touch of creativity."</i> ✨
+</p>
