@@ -1,8 +1,5 @@
 <div align="center">
-  <img src="Pink binary code.jpg" width="100%">
-  
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/mocha_8bit_line.png" width="100%">
-  
+  <img src="Pink binary code.jpg" width="50%">  
   <h1>Hey, I'm Emily! ✨</h1>
   <p><i>Senior Software Developer | Java • Python • Cloud • Creative Soul 🎀</i></p>
 
