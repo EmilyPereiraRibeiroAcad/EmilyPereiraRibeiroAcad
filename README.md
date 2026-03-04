@@ -1,7 +1,7 @@
 <div align="center">
   <img src="Pink binary code.jpg" alt="Banner Pink Binary Code" width="100%">  
   <h1>Hey, I'm Emily! ✨</h1>
-  <p><i>Senior Software Developer | Java • Python • Cloud • Creative Soul 🎀</i></p>
+  <p><i> Software Engineer | Java • Python • Cloud • Creative Soul 🎀</i></p>
 
   <img src="https://komarev.com/ghpvc/?username=EmilyPereiraRibeiroAcad&color=ff79c6&style=flat-square&label=PROFILE+VIEWS" />
 </div>
