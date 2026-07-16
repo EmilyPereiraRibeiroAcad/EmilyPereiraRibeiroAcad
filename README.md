@@ -20,7 +20,7 @@
 <br/>
 
 <!-- ═══════════════ ABOUT ME ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff79c6&height=3&section=header" width="100%"/>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Sobre mim
 
@@ -35,7 +35,7 @@
 <br clear="right"/>
 
 <!-- ═══════════════ SOCIALS ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff79c6&height=3&section=header" width="100%"/>
 
 ## 🌐 Vamos nos conectar?
 
@@ -47,7 +47,7 @@
 </div>
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff79c6&height=3&section=header" width="100%"/>
 
 ## 💻 Tech Stack
 
@@ -88,7 +88,7 @@
 </div>
 
 <!-- ═══════════════ GITHUB STATS ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff79c6&height=3&section=header" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -106,16 +106,7 @@
 <!-- 🐍 SNAKE CONTRIBUTION GRAPH 🐍 -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/EmilyPereiraRibeiroAcad/EmilyPereiraRibeiroAcad/output/snake.svg" alt="Snake animation" />
-
-</div>
-
-<!-- 🏆 TROPHIES 🏆 -->
-## 🏆 Troféus
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=EmilyPereiraRibeiroAcad&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+<img src="https://raw.githubusercontent.com/EmilyPereiraRibeiroAcad/EmilyPereiraRibeiroAcad/output/snake-dark.svg" alt="Snake animation" />
 
 </div>
 
