@@ -31,12 +31,21 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyPereiraRibeiroAcad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 📊 GitHub Stats & Activity:
-<!-- Calendário quadriculado perfeitamente integrado ao tema tokyonight com detalhes em rosa -->
-![](https://github-readme-activity-graph.vercel.app/graph?username=EmilyPereiraRibeiroAcad&theme=tokyonight&color=ff79c6&line=ff79c6&point=ff79c6&hide_border=true)<br/>
+<!-- Calendário clássico de quadradinhos com fundo escuro integrado e detalhes em rosa -->
+![](https://github-readme-activity-graph.vercel.app/graph?username=EmilyPereiraRibeiroAcad&theme=tokyonight&bg_color=1a1b26&color=ff79c6&line=ff79c6&point=ff79c6&area=false&hide_border=true)<br/>
+
+<!-- Calendário de quadradinhos clássico com fundo transparente adaptado para tema escuro -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/ff79c6/EmilyPereiraRibeiroAcad">
+    <img src="https://ghchart.rshah.org/ff79c6/EmilyPereiraRibeiroAcad" alt="Emily's GitHub Contributions">
+  </picture>
+</p><br/>
 
 <!-- Estatísticas gerais -->
 ![](https://github-readme-stats.vercel.app/api?username=EmilyPereiraRibeiroAcad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyPereiraRibeiroAcad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=EmilyPereiraRibeiroAcad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
