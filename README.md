@@ -30,11 +30,19 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EmilyPereiraRibeiroAcad&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyPereiraRibeiroAcad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 📊 GitHub Activity:
+<!-- Calendário quadriculado personalizado em rosa (ff79c6) para os dias e meses -->
+![](https://ghchart.rshah.org/ff79c6/EmilyPereiraRibeiroAcad)<br/>
+
+<!-- Estatísticas gerais configuradas para rastrear tudo, inclusive commits privados -->
+![](https://github-readme-stats.vercel.app/api?username=EmilyPereiraRibeiroAcad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyPereiraRibeiroAcad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=EmilyPereiraRibeiroAcad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=EmilyPereiraRibeiroAcad&icon=7&color=11)](https://visitcount.itsvg.in)
