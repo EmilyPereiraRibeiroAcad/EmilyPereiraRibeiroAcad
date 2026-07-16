@@ -27,7 +27,7 @@ jobs:
           # color_dots: 1º valor = casinha VAZIA (fundo dark do GitHub #161b22)
           # os outros 4 = níveis de contribuição, em tons de rosa 🎀
           outputs: |
-            dist/snake-dark.svg?palette=github-dark&color_snake=#ff79c6&color_dots=#161b22,#5a1f3d,#a12d6b,#e83e8c,#ff79c6
+                dist/snake-dark.svg?palette=github-dark&color_snake=#ff79c6&color_dots=#161b22,#5a1f3d,#a12d6b,#e83e8c,#ff79c6
 
       - name: Publicar na branch output
         uses: crazy-max/ghaction-github-pages@v4
